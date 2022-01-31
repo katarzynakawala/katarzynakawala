@@ -20,12 +20,13 @@ welcome to my github page. My name is Kasia and here you can find some projects 
 I have over 6 years of experience as a QA developer. :bug:  I enjoy writing automated scripts in Java and Groovy. But I also love creating some APIs.
 I've made some projects in Java (which you can see below) but recently I felt madly in love with Go. :blue_heart:
 What I like about Go is how nice it feels to write code using it and how intuitive that is. 
-And build-in testing framework is big plus for me. :heavy_plus_sign:
+
+And build-in testing framework is also a big plus for me. :heavy_plus_sign:
 
 
 
 😄 My Pronouns: she/ they
 
-🌱 I’m currently learning AWS 
+🌱 I’m currently preparing myself for AWS certification
 
 :sunny: When I don't code I take a lot of photos and cook vegan dishes 
