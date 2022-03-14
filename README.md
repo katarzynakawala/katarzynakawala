@@ -27,6 +27,6 @@ And build-in testing framework is also a big plus for me. :heavy_plus_sign:
 
 😄 My Pronouns: she/ they
 
-🌱 I’m currently preparing myself for AWS certification
+🌱 I’m currently preparing myself for AWS certification (AWS Solution Architect)
 
 :sunny: When I don't code I take a lot of photos and cook vegan dishes 
