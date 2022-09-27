@@ -30,3 +30,5 @@ And build-in testing framework is also a big plus for me. :heavy_plus_sign:
 🌱 I’m currently preparing myself for AWS certification (AWS Solution Architect)
 
 :sunny: When I don't code I take a lot of photos and cook vegan dishes 
+
+[![@katkawala's Holopin board](https://holopin.io/api/user/board?user=katkawala)](https://holopin.io/@katkawala)
