@@ -31,4 +31,6 @@ And build-in testing framework is also a big plus for me. :heavy_plus_sign:
 
 :sunny: When I don't code I take a lot of photos and cook vegan dishes 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynakawala)](https://github.com/katarzynakawala/github-readme-stats)
+
 [![@katkawala's Holopin board](https://holopin.io/api/user/board?user=katkawala)](https://holopin.io/@katkawala)
